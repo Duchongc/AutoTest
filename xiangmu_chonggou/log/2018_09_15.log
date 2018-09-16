@@ -1,0 +1,2 @@
+[2018-09-15 14:46:38,072] - logger.py] - INFO: attach file E:\toors\xiangmu_chonggou\report\20180915_14-46-37_result.html
+[2018-09-15 14:46:39,604] - logger.py] - INFO: 发送邮件"长生测试报告"成功! 收件人：1978529954@qq.com。如果没有收到邮件，请检查垃圾箱，同时检查收件人地址是否正确
